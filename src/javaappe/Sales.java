@@ -28,7 +28,7 @@ public class Sales {
         System.out.println("Quantity: "+quant);
         System.out.println("-----------------------------");
         System.out.println("Total Due: "+(quant*price));
-        System.out.println("Cash: "+(cash));
+        System.out.println("C ash: "+(cash));
         System.out.println("-----------------------------");
         System.out.println("Change: "+(cash-(quant*price)));
         System.out.println("-----------------------------");
